@@ -5,6 +5,8 @@
     Project Name: Energia3D
 ---
 
+[link to demo](https://trial.jonathanwebworks.com/energia3d.html)
+
 # What we did
 # Our process
 # What went wrong
