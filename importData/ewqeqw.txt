@@ -1,0 +1,37 @@
+[
+    {
+        "city": "New York",
+        "energyUsage": { "solar": 20, "nuclear": 30, "gas": 25, "hydro": 25 },
+        "averageCost": { "solar": 0.12, "nuclear": 0.10, "gas": 0.08, "hydro": 0.09 },
+        "peakUsageTime": "5 PM - 8 PM",
+        "dominantEnergySource": "nuclear"
+    },
+    {
+        "city": "Miami",
+        "energyUsage": { "solar": 40, "nuclear": 10, "gas": 30, "hydro": 20 },
+        "averageCost": { "solar": 0.11, "nuclear": 0.09, "gas": 0.07, "hydro": 0.10 },
+        "peakUsageTime": "2 PM - 6 PM",
+        "dominantEnergySource": "solar"
+    },
+    {
+        "city": "Chicago",
+        "energyUsage": { "solar": 15, "nuclear": 35, "gas": 30, "hydro": 20 },
+        "averageCost": { "solar": 0.13, "nuclear": 0.11, "gas": 0.09, "hydro": 0.08 },
+        "peakUsageTime": "4 PM - 7 PM",
+        "dominantEnergySource": "nuclear"
+    },
+    {
+        "city": "Los Angeles",
+        "energyUsage": { "solar": 50, "nuclear": 5, "gas": 30, "hydro": 15 },
+        "averageCost": { "solar": 0.10, "nuclear": 0.12, "gas": 0.08, "hydro": 0.09 },
+        "peakUsageTime": "3 PM - 8 PM",
+        "dominantEnergySource": "solar"
+    },
+    {
+        "city": "Seattle",
+        "energyUsage": { "solar": 10, "nuclear": 20, "gas": 25, "hydro": 45 },
+        "averageCost": { "solar": 0.14, "nuclear": 0.13, "gas": 0.07, "hydro": 0.06 },
+        "peakUsageTime": "6 PM - 9 PM",
+        "dominantEnergySource": "hydro"
+    }
+]
